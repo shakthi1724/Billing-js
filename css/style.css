@@ -1,0 +1,11 @@
+.container{
+    width: 1000px;
+    margin: auto;
+    padding: auto;
+}
+.table{
+    border: solid 2px black;
+}
+td,th{
+    border: solid 1px red;
+}
